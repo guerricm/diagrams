@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T20:07:46.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="EBsPGY-7cgHCHfBvEk6H" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T20:08:47.915Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_b5licxaThF5kK2CmJwX" version="16.6.4" type="github">
   <diagram id="RjcC0O9vTTPcuDkdqp8Y" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -102,8 +102,8 @@
         <mxCell id="_rrU8YKBNzlx7stSoTXR-55" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://outpost24.com/sites/default/files/inline-images/DevOps-appsec-icon.png;" vertex="1" parent="1">
           <mxGeometry x="10" y="5" width="255.59" height="145" as="geometry" />
         </mxCell>
-        <mxCell id="_rrU8YKBNzlx7stSoTXR-56" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/881/1*A7E6HKBOg-8UfcmTiJLtuw.jpeg;" vertex="1" parent="1">
-          <mxGeometry x="1155" y="380" width="210" height="121.96" as="geometry" />
+        <mxCell id="_rrU8YKBNzlx7stSoTXR-57" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d33wubrfki0l68.cloudfront.net/24a0075385c0253dd1fb62c6d3128cd9a59cf9d2/2ef5f/img/posts/junit_logo.jpeg;" vertex="1" parent="1">
+          <mxGeometry x="1146.45" y="370" width="250" height="145.19" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
