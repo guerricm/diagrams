@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T20:10:47.032Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="pZShEk3PZSTOnWJ9eCBi" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T20:11:48.051Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5PHHaG_S58V6ijIGTGyC" version="16.6.4" type="github">
   <diagram id="RjcC0O9vTTPcuDkdqp8Y" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -90,9 +90,6 @@
         <mxCell id="_rrU8YKBNzlx7stSoTXR-48" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.archunit.org/assets/ArchUnit-Logo.png;" vertex="1" parent="1">
           <mxGeometry x="1142.89" y="317.5" width="257.11" height="44.5" as="geometry" />
         </mxCell>
-        <mxCell id="_rrU8YKBNzlx7stSoTXR-50" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d33wubrfki0l68.cloudfront.net/a661dbbe55be3e9cb77889f24835a44c6daf53c2/ce0aa/logo.png;" vertex="1" parent="1">
-          <mxGeometry x="1160" y="520" width="211.45" height="105.73" as="geometry" />
-        </mxCell>
         <mxCell id="_rrU8YKBNzlx7stSoTXR-52" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://loga-engineering.com/wp-content/uploads/2019/10/spring-boot-logo.png;" vertex="1" parent="1">
           <mxGeometry x="1070" y="55" width="200" height="105" as="geometry" />
         </mxCell>
@@ -107,6 +104,9 @@
         </mxCell>
         <mxCell id="_rrU8YKBNzlx7stSoTXR-58" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/max/960/1*X4lvnNBC7T3qjuWx007llw.png;" vertex="1" parent="1">
           <mxGeometry x="1090.1799999999998" y="380" width="339.65" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="_rrU8YKBNzlx7stSoTXR-61" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://d33wubrfki0l68.cloudfront.net/a661dbbe55be3e9cb77889f24835a44c6daf53c2/ce0aa/logo.png;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="480" width="320" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
