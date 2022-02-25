@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T20:20:28.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="D8IT2mX-cGdqWIFhLPRb" version="16.6.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-25T20:20:51.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="HMwTTXt27GiDUX4SofEa" version="16.6.4" type="github" pages="3">
   <diagram id="RjcC0O9vTTPcuDkdqp8Y" name="CI">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
           <mxGeometry x="1000" y="641.81" width="164" height="118.19" as="geometry" />
         </mxCell>
         <mxCell id="Vusr0GZ8xo6RN57-8nw1-51" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.pinclipart.com/picdir/big/83-834158_docker-swarm-logo-clipart.png;" vertex="1" parent="8sGza56T04YSxF9nhcQa-1">
-          <mxGeometry x="1340" y="537.18" width="330" height="327.46" as="geometry" />
+          <mxGeometry x="1240" y="537.18" width="330" height="327.46" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
